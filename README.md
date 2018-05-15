@@ -18,3 +18,8 @@ ROMAN_TO_INT.PY
     Store all the Roman values to the dict.
     Compare with next values when it is greater subtract the current value
 
+
+longestCommonPrefix.PY
+    store the first index of string to array
+    compare with the rest list of strings
+    maintain count and to get the minimum splicing from the original array
