@@ -42,3 +42,6 @@ MergeTwoSortedLists.py
 
 removeDuplicates.py
     check for current and next value in list if same del nums[i + 1] else i = i + 1
+
+REMOVE_ELEMENT.PY
+    same as remove duplicates
