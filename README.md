@@ -23,3 +23,12 @@ longestCommonPrefix.PY
     store the first index of string to array
     compare with the rest list of strings
     maintain count and to get the minimum splicing from the original array
+
+
+VALID_PARANTHESES.PY
+    create empty stack
+    create list with all open parentheses
+    create dict for resp. closed paranthese
+    if open paratheses push into the stack
+    if closed paranthese check stack fornt has resp. open parantheses else false
+    if stack empty true else false
