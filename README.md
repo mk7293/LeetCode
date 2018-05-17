@@ -32,3 +32,9 @@ VALID_PARANTHESES.PY
     if open paratheses push into the stack
     if closed paranthese check stack fornt has resp. open parantheses else false
     if stack empty true else false
+
+
+MergeTwoSortedLists.py
+    while l1 or l2: check for all conditions
+    create new listnode and append the sorted values into it
+    return list node
