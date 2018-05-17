@@ -38,3 +38,7 @@ MergeTwoSortedLists.py
     while l1 or l2: check for all conditions
     create new listnode and append the sorted values into it
     return list node
+
+
+removeDuplicates.py
+    check for current and next value in list if same del nums[i + 1] else i = i + 1
